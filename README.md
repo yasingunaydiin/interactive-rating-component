@@ -27,8 +27,8 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-
+<img width="1822" alt="Scherm­afbeelding 2024-09-01 om 12 05 27" src="https://github.com/user-attachments/assets/4563ab99-3084-458b-ba2f-fead83d856fb">
+<img width="1822" alt="Scherm­afbeelding 2024-09-01 om 12 05 32" src="https://github.com/user-attachments/assets/90d3f94a-1b0d-4c6e-9765-69794ebd8a17">
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
